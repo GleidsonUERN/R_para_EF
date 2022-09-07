@@ -1,4 +1,4 @@
-﻿Nome;Sexo;Idade;Peso;Som_Dobras;Perc_Gord
+Nome;Sexo;Idade;Peso;Som_Dobras;Perc_Gord
 Wagner Santos;1;45;64,1;85;18,2
 Andreza Tavares;2;26;57,5;145;26,2
 Fidelis Lenin;1;21;93,1;139,3;21,8
