@@ -1,0 +1,23 @@
+﻿Nome;Sexo;Idade;Peso;Som_Dobras;Perc_Gord
+Wagner Santos;1;45;64,1;85;18,2
+Andreza Tavares;2;26;57,5;145;26,2
+Fidelis Lenin;1;21;93,1;139,3;21,8
+Hestefany;2;21;56,3;109;19,3
+Isaac Matheus;1;20;80;95;13,7
+Israiany Jane;2;25;60;54,3;14,8
+Jonhnathan Bruno;1;21;79,1;124;15,9
+Arthur Feitosa;1;19;64,8;68;8,7
+Karla Danielle;2;31;50,5;145;26,1
+Marcus Vinicius;1;28;79;98;16,3
+Maria Cecília;2;27;68,8;149;26,2
+André Luiz;1;22;77,1;87;10,9
+Adson Lucas;1;21;68;72;9,1
+Diogo Miranda;1;18;63,1;86;10,5
+Judson Breno;1;21;70,6;82;11,6
+Rafael Vicente;1;28;94,5;122;16,6
+Dandara Horrana;2;21;72,7;237;34,8
+David Breno;1;22;101,8;238;27,2
+Josibeli Loudes;2;22;68,5;158;28
+Maria Gusmão;2;23;60;147;28
+Artur Oliveira;1;31;87,1;71;9,9
+Vandré Joaquim;1;23;84,5;117;15
